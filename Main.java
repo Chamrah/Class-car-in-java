@@ -13,11 +13,5 @@ public class Main{
         car1.Accelerate();
         car1.boost();
         car1.brake();
-
-
-
-
-
-
     }
 }
